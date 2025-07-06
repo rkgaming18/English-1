@@ -1,8 +1,8 @@
-<html lang="en">
-<head>
+<html lang="as">
+  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ইংৰাজী বৰ্ণমালা - অসীম Library</title>
+  <title>ইংৰাজী বৰ্ণমালা- অসীম Library</title>
   <style>
     body {
       margin: 0;
@@ -29,9 +29,9 @@
     }
     .section-title {
       text-align: center;
-      font-size: 22px;
+      font-size: 20px;
       margin: 20px 0 10px;
-      color: #3f51b5;
+      color: #4caf50;
     }
     .grid {
       display: grid;
@@ -48,7 +48,7 @@
     }
     .card h3 {
       margin: 5px 0;
-      font-size: 20px;
+      font-size: 22px;
       color: #0066cc;
     }
     .card img {
